@@ -12,6 +12,10 @@
 🌱 Currently learning **JavaScript and modern web development**  
 🎯 Focused on building real world projects  
 🚀 Always learning and improving
+###Portfolio
+<a href="">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-kumrekrishna&repo=Portfolio&theme=tokyonight">
+</a>
 
 ---
 
